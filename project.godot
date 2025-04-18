@@ -10,7 +10,7 @@ config_version=5
 
 [application]
 
-config/name="HLA-NoVR-Launcher"
+config/name="HLA-NoVR-Launcher_veeanti"
 config/version="4.2.3"
 run/main_scene="res://launcher.tscn"
 config/features=PackedStringArray("4.4", "GL Compatibility")
