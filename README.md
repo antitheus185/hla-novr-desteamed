@@ -6,7 +6,8 @@ Launcher for Half-Life: Alyx NoVR
 ## Installation
 
 ### Windows
-[Download the latest release. (Do not download this or mess with the link, it is the original link from the original GitHub page.)](https://github.com/HLANoVR/HLA-NoVR-Launcher/releases/latest/download/HLA-NoVR-Launcher.exe)
+[Download the latest release.](https://github.com/HLANoVR/HLA-NoVR-Launcher/releases/latest/download/HLA-NoVR-Launcher.exe)
+(Do not download this or mess with the link, it is the original link from the original GitHub page.)
 
 ---
 
@@ -18,7 +19,7 @@ If you use a Steam Deck/Linux, see the [FAQ](https://docs.google.com/document/d/
 
 In case you need to select a folder after clicking "Play" in the launcher, select your "Half-Life Alyx" folder (it's located where Steam installed the game and it has the folders `game` and `content` inside of it).
 
-Only official copies of the game bought on Steam are supported.
+~~Only official copies of the game bought on Steam are supported.~~
 
 ## Credits
 The awesome background video was made by [Half Peeps](https://www.youtube.com/@HALFPEEPS).
